@@ -1,2 +1,2 @@
 # sklearn_ml_toolbox_samples
-Sample implementation to Alexander Wendts SKLearn ML ToolBox
+Sample implementations of Alexander Wendts SKLearn ML ToolBox
